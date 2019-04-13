@@ -1,0 +1,276 @@
++++ASSIGNMENT0 MARK DETAIL+++
++++This assignment is marked by:+++
+TA (name, email): Amol Dosanjh, amol.dosanjh@mail.utoronto.ca
+Contact the TA directly if you have any questions on the marking
+Please refer to the course syllabus for remarking window
+Your mark out of 10 is: 10
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT0+++
+A    Assignment0/src
+A    Assignment0/src/a0
+A    Assignment0/src/driver
+A    Assignment0/test
+A    Assignment0/src/a0/Cfiltering.java
+A    Assignment0/src/a0/Rearranging.java
+A    Assignment0/src/driver/CfilteringDriver.java
+A    Assignment0/test/test1.txt
+A    Assignment0/test/test2.txt
+A    Assignment0/test/test3.txt
+A    Assignment0/test/test4.txt
+A    Assignment0/input1.txt
+A    Assignment0/input2.txt
+Checked out revision 16.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+------------------------------------------------------------------------
+r16 | oladejib@UTORONTO.CA | 2018-09-23 21:46:54 -0400 (Sun, 23 Sep 2018) | 1 line
+
+Minor edits and comments added to project files
+------------------------------------------------------------------------
+r13 | oladejib@UTORONTO.CA | 2018-09-20 14:23:28 -0400 (Thu, 20 Sep 2018) | 1 line
+
+Small formatting changes
+------------------------------------------------------------------------
+r12 | oladejib@UTORONTO.CA | 2018-09-20 14:20:34 -0400 (Thu, 20 Sep 2018) | 1 line
+
+Finished Cfiltering and CfilteringDriver; Reformatted all code under Google style
+------------------------------------------------------------------------
+r11 | oladejib@UTORONTO.CA | 2018-09-20 14:13:31 -0400 (Thu, 20 Sep 2018) | 1 line
+
+Test files are added now (forgot to mark them for addition)
+------------------------------------------------------------------------
+r10 | oladejib@UTORONTO.CA | 2018-09-20 14:11:55 -0400 (Thu, 20 Sep 2018) | 1 line
+
+Added test files
+------------------------------------------------------------------------
+r9 | oladejib@UTORONTO.CA | 2018-09-20 01:10:16 -0400 (Thu, 20 Sep 2018) | 1 line
+
+Made progress on Cfiltering.java and CfilteringDriver.java (added CfilteringDriver.java this time)
+------------------------------------------------------------------------
+r8 | oladejib@UTORONTO.CA | 2018-09-20 01:09:39 -0400 (Thu, 20 Sep 2018) | 1 line
+
+Made progress on Cfiltering.java and CfilteringDriver.java
+------------------------------------------------------------------------
+r7 | attarwal@UTORONTO.CA | 2018-09-19 12:16:03 -0400 (Wed, 19 Sep 2018) | 1 line
+
+deleting src/test by instructor
+------------------------------------------------------------------------
+r6 | oladejib@UTORONTO.CA | 2018-09-18 23:27:40 -0400 (Tue, 18 Sep 2018) | 1 line
+
+Finished Rearraning.java
+------------------------------------------------------------------------
+r4 | attarwal@UTORONTO.CA | 2018-09-18 04:37:59 -0400 (Tue, 18 Sep 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r3 | attarwal@UTORONTO.CA | 2018-09-18 04:37:58 -0400 (Tue, 18 Sep 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2018-09-18 04:37:57 -0400 (Tue, 18 Sep 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r1 | Markus | 2018-09-15 12:36:39 -0400 (Sat, 15 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+Marks Deductions here: 0
+
+
+
+PART 3) +++FOLLOWING LINES ARE GREATER THAN 80 CHARACTERS+++
+Marks Deductions here: 0
+
+
+
+PART 4) +++TEST FOLDER WITH TEST FILES IN IT?+++
+------------------------------------------------------------------------
+r11 | oladejib@UTORONTO.CA | 2018-09-20 14:13:31 -0400 (Thu, 20 Sep 2018) | 1 line
+
+Test files are added now (forgot to mark them for addition)
+------------------------------------------------------------------------
+Marks Deductions here: 0
+
+
+
+PART 5) +++HONOR CODE?+++
+// **********************************************************
+// Assignment0:
+// UTORID: oladejib
+// UT Student #: 1004112738
+// Author: Bryan Oladeji
+//
+//
+// Honor Code: I pledge that this program represents my own
+// program code and that I have coded on my own. I received
+// help from no one in designing and debugging my program.
+// I have also read the plagiarism section in the course info
+// sheet of CSC B07 and understand the consequences. In this semester
+// we will select any three of your assignments from total of 5 and run it
+// for plagiarism check. 
+Marks Deductions here: 0
+
+
+
+PART 6) +++IDE FILES+++
+Marks Deductions here: 0
+
+
+
+PART 7) +++STATIC FUNCTIONS IN YOUR CODE+++
+Marks Deductions here: 0
+
+
+
+PART 8) +++COMMENTS IN cFiltering.java
+Marks Deductions here: 0
+// for plagiarism check. 
+// *********************************************************
+  // this is a 2d matrix i.e. user*movie
+  // this is a 2d matrix i.e. user*movie
+    // this is 2d matrix of size 1*1
+    // this is 2d matrix of size 1*1
+    // this is 2d matrix of size numberOfUsers * numberOfMovies
+    // this is square 2d matrix of size numberOfUsers * numberOfUsers
+    // get number of users from matrix  
+    // nested for loop runs in the style of an upper triangular matrix
+        //get specific user matrices
+        //calculate the distance between the two points
+    //create variable for similarity score
+    //set similarity score to 1 if matrices are equal
+      //get number of ratings for each user
+      //initialize variable for distance between points
+      //calculate the similarity score
+    //run for loop to scan all the userMatrices in the userUserMatrix
+      System.out.println(); //formatting, print a new line for each matrix
+      //run a for loop to scan through the user matrix
+        //if at the start of the userMatrix, print an open bracket
+        //print the similarity score rounded to 4 decimal places
+        //if not at the end of the userMatrix, print a comma
+        //if at the end of the userMatrix, print a close bracket
+    //set default values for most similar score and user pair
+    //run through all pairs in the matrix
+    //set default values for least similar score and user pair
+  //run through all pairs in the matrix
+
+
+
+PART 9) +++COMPILING YOUR CODE+++
+Marks Deductions here: 0
+
+
+
++++RUNNING YOUR CODE+++
+PART 10) +++RUNNING TESTCASE1+++
+Marks Deductions here: 0
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are:
+User1 and User2,
+User1 and User3,
+User1 and User4,
+User2 and User3,
+User2 and User4,
+User3 and User4
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are:
+User1 and User2,
+User1 and User3,
+User1 and User4,
+User2 and User3,
+User2 and User4,
+User3 and User4
+with similarity score of 1.0000
+
+
+
+PART 11) +++RUNNING TESTCASE2+++
+Marks Deductions here: 0
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 1.0000, 0.1006, 0.1006]
+[1.0000, 1.0000, 0.1006, 0.1006]
+[0.1006, 0.1006, 1.0000, 1.0000]
+[0.1006, 0.1006, 1.0000, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are:
+User1 and User2,
+User3 and User4
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are:
+User1 and User3,
+User1 and User4,
+User2 and User3,
+User2 and User4
+with similarity score of 0.1006
+
+
+
+PART 12) +++RUNNING TESTCASE3+++
+Marks Deductions here: 0
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 0.1082, 0.1082, 0.1082, 1.0000]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[1.0000, 0.1082, 0.1082, 0.1082, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are:
+User1 and User5,
+User2 and User3,
+User2 and User4,
+User3 and User4
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are:
+User1 and User2,
+User1 and User3,
+User1 and User4,
+User2 and User5,
+User3 and User5,
+User4 and User5
+with similarity score of 0.1082
+
+
+
+Part 10) +++Working on Problem Rearranging+++
+Marks Deductions here: 0
+FOUND: Rearranging.java and now compiling
+Note: ./src/a0/RearrangingTest.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
++++RUNNING TESTCASES+++ on Rearranging
+JUnit version 4.12
+.1
+.0
+
+Time: 0.013
+
+OK (2 tests)
+
+Part 11) +++Does your code run in linear time and not use a new array+++?
+Marks Deductions here: 0
