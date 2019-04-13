@@ -1,0 +1,5 @@
+Class Name: ChangeDir
+Parent Class: Command
+Subclasses: None
+Responsibilites:
+* Changes the current working directory to the given directory path.

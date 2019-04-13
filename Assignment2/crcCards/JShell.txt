@@ -1,0 +1,12 @@
+Class Name: JShell
+Parent Class: None
+Subclasses: None
+Responsibilites:
+* Initiates the shell
+* Receives Input from the Input class
+* Sends received input to be evaluated and executed
+* Exits upon command
+Collaborators:
+* Input
+* EvaluateInput
+* Directory

@@ -1,0 +1,6 @@
+Class Name: PopDir
+Parent Class: Command
+Subclasses: None
+Responsibilites:
+* Removes the last saved directory and sets it as the new working directory.
+* Throws an error if there are no saved directories to pop.

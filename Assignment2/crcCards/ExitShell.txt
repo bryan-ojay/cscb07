@@ -1,0 +1,5 @@
+Class Name: ExitShell
+Parent Class: Command
+Subclasses: None
+Responsibilites:
+* Prompts the shell to terminate.

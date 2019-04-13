@@ -1,0 +1,5 @@
+Class Name: Input
+Parent Class: None
+Subclasses: None
+Responsibilites:
+* Takes and returns input from user

@@ -1,0 +1,8 @@
+Class Name: Directory
+Parent Class: None
+Subclasses: None
+Responsibilites:
+* Stores and outputs subdirectories and files on command
+* Stores and outputs its path on command
+Collaborators:
+* File
