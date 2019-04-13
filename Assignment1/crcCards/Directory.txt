@@ -1,0 +1,12 @@
+Class Name: Directory
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Stores the name and location of itself (the directory)
+* Stores the name and location of the immediate parent directory
+* Stores its subdirectories and files
+* Returns the above data when called upon
+
+Collaborators:
+* Shell

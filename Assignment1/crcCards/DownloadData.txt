@@ -1,0 +1,13 @@
+Class Name: DownloadData
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Downloads data from webpage after connecting to Internet
+* Communicates how much data is downloaded
+* Sends downloaded data to be stored in File
+
+Collaborators:
+* Execute
+* ShellToInternet
+* Directory

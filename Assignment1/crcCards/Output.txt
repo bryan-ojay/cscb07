@@ -1,0 +1,10 @@
+Class Name: Output
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Prints the working directory once called upon by the shell
+* Prints all and any messages once called upon by the shell
+
+Collaborators:
+* Shell

@@ -1,0 +1,10 @@
+Class Name: FileEditor
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Inserts, removes and edits text in a file
+
+Collaborators:
+* Execute
+* File

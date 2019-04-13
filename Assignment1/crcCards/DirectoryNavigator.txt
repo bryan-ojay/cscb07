@@ -1,0 +1,11 @@
+Class Name: DirectoryNavigator
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Navigates up and down in directories once called upon
+
+Collaborators:
+* Execute
+* Directory
+* File

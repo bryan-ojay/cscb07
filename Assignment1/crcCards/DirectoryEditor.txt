@@ -1,0 +1,13 @@
+Class Name: DirectoryEditor
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Creates and deletes data (subdirectories and files) in Directories once called upon
+* Stores and returns its immediate parent directory, subdirectories and files once called upon.
+
+Collaborators:
+* Execute
+* Directory
+* File
+* DirectoryNavigator

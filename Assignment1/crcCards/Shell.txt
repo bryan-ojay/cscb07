@@ -1,0 +1,19 @@
+Class Name: Shell
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Primarily gives instructions to classes in the program
+* Terminates the program if Execute class runs the "exit" command
+* Calls to output the working directory before each user input
+* Calls to get input from user
+* Calls to validate and run commands from user
+* Calls to output any received errors
+* Calls to output any data received from a command that was run
+
+
+Collaborators:
+* Output
+* Input
+* Execute
+* Directory

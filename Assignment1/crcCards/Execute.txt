@@ -1,0 +1,20 @@
+Class Name: Execute
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Receives and validates input from the shell
+* Tells shell to stop if "exit" command is called
+* Sends an error back to shell if input is invalid or an error is received from a called class
+* Translates valid user input into instructions to give to other classes
+* Sends any data received from classes after running a command to the shell
+
+Collaborators:
+* Shell
+* DirectoryNavigator
+* DirectoryEditor
+* File
+* Directory
+* ShellToInternet
+* DownloadData
+* FileEditor

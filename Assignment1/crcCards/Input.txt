@@ -1,0 +1,10 @@
+Class Name: Input
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Takes input from the user once called upon by the shell
+* Sends given input to the shell
+
+Collaborators:
+* Shell

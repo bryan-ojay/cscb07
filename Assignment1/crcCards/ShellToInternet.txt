@@ -1,0 +1,10 @@
+Class Name: ShellToInternet
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Verifies if there is a working Internet connection
+* Establishes and terminates connection from shell to Internet
+
+Collaborators:
+* Shell

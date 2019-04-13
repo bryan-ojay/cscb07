@@ -1,0 +1,12 @@
+Class Name: File
+Parent Class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Stores the name and location of itself (the file)
+* Stores the text contents of itself (the file)
+* Stores the name of the directory it is located in
+* Returns the above data when called upon
+
+Collaborators:
+* Directory
