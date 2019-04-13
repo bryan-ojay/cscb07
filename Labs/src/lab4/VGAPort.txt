@@ -1,0 +1,10 @@
+Class: VGAPort
+Parent Classes: OutputScreen
+Subclasses: N/A
+
+Responsibilities:
+* Takes the output screen and displays on an external screen, in VGA Format
+
+Collaborators:
+* Touchpad
+* Keyboard

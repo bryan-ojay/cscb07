@@ -1,0 +1,10 @@
+Class: Microphone
+Parent Classes: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Turns microphone on or off
+* Records voice input
+
+Collaborators:
+* OutputScreen

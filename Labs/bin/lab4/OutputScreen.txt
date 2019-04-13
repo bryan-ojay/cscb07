@@ -1,0 +1,17 @@
+Class: OutputScreen
+Parent Classes: N/A
+Subclasses: HDMIPort, VGAPort
+
+Responsibilities:
+* Displays visual output for the user
+* Registers input from keyboard and mice
+* Outputs display to HDMI and VGA
+* Takes in microphone input
+
+Collaborators:
+* Touchpad
+* Keyboard
+* Webcam
+* ExternalMouse
+* Microphone
+

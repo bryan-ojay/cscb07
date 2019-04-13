@@ -1,0 +1,10 @@
+Class: HDMIPort
+Parent Classes: OutputScreen
+Subclasses: N/A
+
+Responsibilities:
+* Takes the output screen and displays on an external screen, in HDMI format
+
+Collaborators:
+* Touchpad
+* Keyboard

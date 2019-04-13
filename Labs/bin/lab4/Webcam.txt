@@ -1,0 +1,11 @@
+Class: Webcam
+Parent Classes: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Turns webcam on or off
+* Records and displays the content of webcam on the output screen
+
+Collaborators:
+* OutputScreen
+* Keyboard

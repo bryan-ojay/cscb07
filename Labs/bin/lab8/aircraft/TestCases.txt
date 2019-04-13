@@ -1,0 +1,19 @@
+Purpose of test                                          Expected behaviour
+------------------------------------------------------------------------------------------------
+Check behaviour of average on new Flight                 average() returns 0
+ ''                getLastDataPoint  ''                  getLastDataPoint(0) returns empty list
+  ''                getLastDataPoint ''                  getLastDataPoint(10) returns error
+    ''             getRecordedData() ''                  getRecordedData() returns empty list
+                
+ Check behaviour of record on single data Flight         record() returns null, increments size of flight
+    ''              average()              ''            average() returns single data's amount
+    ''            getLastDataPoints()      ''            getLastDataPoints(0) returns empty list
+    ''           getLastDataPoints()       ''            getLastDataPoints(1) returns single data
+    ''            getLastDataPoints()      ''            getLastDataPoints(5) returns error
+    ''               getRecordedData()     ''            getRecordedData() returns list of single data
+    
+ Check behaviour of record on many data Flight           record() returns null, increments size, many times
+  ''                average         ''                   average returns average of all data points
+  ''               getLastDataPoints() ''                getLastDataPOints(1) returns most recent data point
+  ''               getLastDataPoints()    ''             getLastDataPoints(5) returns 5 most recent data points
+  ''               getRecordedData()   ''                getRecordedData() returns all data points, in sorted order

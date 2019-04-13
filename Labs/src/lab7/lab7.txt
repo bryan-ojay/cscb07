@@ -1,0 +1,3 @@
+I got an error because the function assumed I was inputting a raw data type
+into the Hashtable, instead of a string. I had to specify that the Hashtable
+was mapping from String to String in order for it to work.

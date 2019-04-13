@@ -1,0 +1,10 @@
+Class: Keyboard
+Parent Classes: N/A
+Subclasses: External Mouse with scroll button
+
+Responsibilities:
+* Records user key input and displays it on output screen
+
+Collaborators:
+* OutputScreen
+* Touchpad

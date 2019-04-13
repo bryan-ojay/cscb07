@@ -1,0 +1,12 @@
+Class: ExternalMouse
+Parent Classes: Touchpad
+Subclasses: N/A
+
+Responsibilities:
+* Records user movement and displays cursor movement on output screen
+* Registers clicks to make selections on output screen
+* Takes input from scroll button to navigate up and down pages
+
+Collaborators:
+* Output Screen
+* Keyboard
