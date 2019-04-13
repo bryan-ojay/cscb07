@@ -1,31 +1,7 @@
 package a1;
 import java.util.ArrayList;
 import java.util.LinkedList;
-// **********************************************************
-// Assignment1:
-// Student1
-// UTORID user_name: oladejib
-// UT Student #: 1004112738
-// Author: Bryan Oladeji
-//
-// Student2: Daniel Mendez Velarde
-// UTORID user_name: mendezve
-// UT Student #: 1004353479
-// Author:
-//
-//
-// Honor Code: I pledge that this program represents my own
-// program code and that I have coded on my own. I received
-// help from no one in designing and debugging my program.
-// I have also read the plagiarism section in the course info
-// sheet of CSC B07 and understand the consequences.
-// *********************************************************
 
-/*
- * the provided starter code may contain warnings of raw type. 
- * This is OK, because we have'nt yet learned generics. After having
- * learnt generics, we will revisit this code, and remove the warnings out. 
- */
 public class BinaryTree {
 
   private Node root;	
