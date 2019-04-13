@@ -1,6 +1,16 @@
 package a1;
 import java.util.ArrayList;
 import java.util.LinkedList;
+<<<<<<< HEAD
+=======
+// **********************************************************
+// Honor Code: I pledge that this program represents my own
+// program code and that I have coded on my own. I received
+// help from no one in designing and debugging my program.
+// I have also read the plagiarism section in the course info
+// sheet of CSC B07 and understand the consequences.
+// *********************************************************
+>>>>>>> 69e3efcceb7eb49834aa76ba2c851e6da6cd10ba
 
 public class BinaryTree {
 
