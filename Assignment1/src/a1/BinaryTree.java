@@ -2,18 +2,6 @@ package a1;
 import java.util.ArrayList;
 import java.util.LinkedList;
 // **********************************************************
-// Assignment1:
-// Student1
-// UTORID user_name: oladejib
-// UT Student #: 1004112738
-// Author: Bryan Oladeji
-//
-// Student2: Daniel Mendez Velarde
-// UTORID user_name: mendezve
-// UT Student #: 1004353479
-// Author:
-//
-//
 // Honor Code: I pledge that this program represents my own
 // program code and that I have coded on my own. I received
 // help from no one in designing and debugging my program.
