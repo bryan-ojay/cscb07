@@ -1,0 +1,7 @@
+Class Name: ListContents
+Parent Class: Command
+Subclasses: None
+Responsibilites:
+* Displays the files and subdirectories of a given directory.
+* Displays the file name of a given file.
+* Throws an error if the given file or directory doesn't exist.

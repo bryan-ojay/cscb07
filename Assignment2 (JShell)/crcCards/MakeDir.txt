@@ -1,0 +1,6 @@
+Class Name: MakeDir
+Parent Class: Command
+Subclasses: None
+Responsibilites:
+* Creates new directories.
+* Throws an error if the desired new directory already exists.

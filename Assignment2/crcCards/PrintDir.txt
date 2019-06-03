@@ -1,5 +1,0 @@
-Class Name: PrintDir
-Parent Class: Command
-Subclasses: None
-Responsibilites:
-* Prints the current working directory.

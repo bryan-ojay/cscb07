@@ -1,5 +1,0 @@
-Class Name: History
-Parent Class: Command
-Subclasses: None
-Responsibilites:
-* Displays all of (or optionally, a number of) the recent commands inputted into the shell.

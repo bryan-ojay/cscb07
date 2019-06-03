@@ -1,0 +1,7 @@
+Class Name: Echo
+Parent Class: Command
+Subclasses: None
+Responsibilites:
+* Sets the contents of a given file to the given string, and creates it first if it does not exist.
+* Appends a given string to a given file, if it exists.
+* Throws an error if the string is invalid or the file is invalid.

@@ -1,5 +1,0 @@
-Class Name: Find
-Parent Class: Command
-Subclasses: None
-Responsibilities:
-* Searches the given path(s) for files/directories with the given name depending on the type provided (f or d)

@@ -1,0 +1,5 @@
+Class Name: Copy
+Parent Class: Command
+Subclasses: None
+Responsibilities:
+* Retrieves the file at the given URL and add it to the current working directory by creating the file

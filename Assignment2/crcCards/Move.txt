@@ -1,8 +1,0 @@
-Class Name: Move
-Parent Class: Command
-Subclasses: None
-Responsibilities:
-* Moves items from the old path to the new path and deletes the contents in the old path
-* If old path is a directory, move its contents (sub-directories/files) as well
-Collaborators:
-* Copy

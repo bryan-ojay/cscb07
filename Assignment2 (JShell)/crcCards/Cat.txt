@@ -1,0 +1,6 @@
+Class Name: Cat
+Parent Class: Command
+Subclasses: None
+Responsibilites:
+* Displays the contents of given files
+* Returns an error if the file does not exist

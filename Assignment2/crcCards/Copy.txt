@@ -1,6 +1,0 @@
-Class Name: Copy
-Parent Class: Command
-Subclasses: None
-Responsibilities:
-* Copies items from the old path to the new path
-* If old path is a directory, copy its contents (sub-directories/files) as well

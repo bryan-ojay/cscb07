@@ -1,7 +1,0 @@
-Class Name: Tree
-Parent Class: Command
-Subclasses: None
-Responsibilities:
-* Visualizes a tree representation of all the files and directories, starting at the root.
-Collaborators:
-* ListContents

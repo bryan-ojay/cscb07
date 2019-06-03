@@ -1,9 +1,0 @@
-Class name: SaveFile
-Parent class: Command
-Subclasses: None
-Responsibilties:
-* Creates files then saves them to Users physical file system.
-Collaborators:
-* JShell
-* History
-* File

@@ -1,0 +1,8 @@
+Class Name: File
+Parent Class: None
+Subclasses: None
+Responsibilites:
+* Stores and outputs text/contents on command
+* Stores and outputs its location on command
+Collaborators:
+* Directory

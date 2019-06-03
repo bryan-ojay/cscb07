@@ -1,5 +1,0 @@
-Class Name: Manual
-Parent Class: Command
-Subclasses: None
-Responsibilites:
-* Displays the documentation for a given command.
